@@ -36,7 +36,7 @@ Although it is not required and won’t be graded, I also encourage you to take 
 Aakriti Garg Shukla, M.D.
 635 W. 165th St, Fifth Floor, Room 533, NY, NY 10032
 
-
+Here's a direct link to the about page: [about](about.html).
 
 ##Problem 2
 Create a flexdashboard using plotly for that includes at least three distinct plot types (e.g. scatterplots, line plots, bar plots, box plots, etc.). Use one of the following datasets, and load from the p8105.datasets package:

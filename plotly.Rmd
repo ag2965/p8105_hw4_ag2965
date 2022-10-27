@@ -1,5 +1,5 @@
 ---
-title: "Plotly and flexdashboard"
+title: "Flexdashboard"
 author: "Aakriti Shukla"
 date: "2022-10-25"
 output: html_document:

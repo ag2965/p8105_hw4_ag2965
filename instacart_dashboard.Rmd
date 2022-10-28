@@ -6,6 +6,8 @@ output:
     vertical_layout: fill
 ---
 
+Here's a direct link to Aaki's homework 4 repo: https://github.com/ag2965/p8105_hw4_ag2965
+
 ```{r setup, include=FALSE}
 library(tidyverse)
 library(p8105.datasets)
@@ -18,7 +20,6 @@ Column {data-width=650}
 
 ### Chart A
 ```{r}
-```{r}
 data("instacart")
 
 instacart = 
@@ -29,7 +30,7 @@ instacart%>%
   janitor::clean_names()%>%
 plot_ly(
     x = ~product_name, y = ~order_dow, type = "scatter", mode = "markers",
-    color = ~order_dow, text = ~text_label, alpha = 0.5)
+    color = ~order_dow, alpha = 0.5)
 ```
 
 

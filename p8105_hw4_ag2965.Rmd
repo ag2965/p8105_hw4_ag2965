@@ -1,7 +1,6 @@
 ---
 title: "Aakriti Shukla"
 author: "Aakriti Shukla"
-date: "2022-10-25"
 output: 
   html_document:
     toc: true
@@ -12,51 +11,10 @@ output:
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
-##Problem 0
-This “problem” focuses on structure of your submission, especially the use git and GitHub for reproducibility, R Projects to organize your work, R Markdown to write reproducible reports, relative paths to load data from local files (if necessary), and reasonable naming structures for your files.
+Welcome to Aakriti Shukla's website for p8105!
 
-To that end:
+Here's a link to Aakriti's [academic and professional experience](index-hw4.html).
 
-create a public GitHub repo + local R Project for this assignment 
-submit a link to your website (not your repo) via Courseworks
-Your solutions to Problems 1 and 2 should be implemented in your .Rmd file(s), and your git commit history should reflect the process you used to solve these Problems.
-
-For Problem 0, we will assess adherence to the instructions above regarding repo structure, git commit history, and whether we are able to knit your .Rmd to ensure that your work is reproducible. Adherence to appropriate styling and clarity of code will be assessed in Problems 1+ using the homework style rubric.
-
-This homework includes figures; the readability of your embedded plots (e.g. font sizes, axis labels, titles) will be assessed in Problems 1+.
-
-##Problem 1
-I have created a personal website at ag2965.github.io 
-This website includes a brief introductory landing page, a page giving your academic and professional experience (i.e. a resume), links in the site navigation for your GitHub account (make sure your name and place of work are correct, provide link to website, pin repositories), my email, and other professional networks.
-
-Welcome!
-
-![](images/aaki.jpg)
-
-Aakriti Garg Shukla, M.D.					
-Leonard A. Lauder Assistant Professor of Ophthalmology
-Edward S. Harkness Eye Institute
-Columbia University Irving Medical Center
-
-Dr. Shukla currently serves as the Leonard A. Lauder Assistant Professor of Ophthalmology at Columbia University Medical Center and Attending Ophthalmologist at the New York Presbyterian Hospital. She completed her undergraduate education as a Trustee and Renaissance Scholar at the University of Southern California. She received her medical degree at Columbia University College of Physicians & Surgeons, where she was awarded a Doris Duke Clinical Research Fellowship and earned the Edith and Denton McKane Memorial Award for Outstanding Research in Ophthalmology and later completed her ophthalmology residency and served as Chief Resident. She pursued further glaucoma subspecialty training at the Wilmer Eye Institute at Johns Hopkins University in Baltimore, MD. 
-
-Dr. Shukla is a board-certified ophthalmologist and specializes in the medical and surgical management of glaucoma and cataracts. Her surgical expertise includes minimally invasive glaucoma surgery, traditional glaucoma surgery, glaucoma laser surgery, and cataract surgery.  Her main research interests include the early detection of glaucoma, structure-function relationships in glaucoma, and optimizing surgical outcomes. She is continually inspired by her patients and aims to improve their quality of life while treating their eye conditions.
-
-Dr. Shukla has published numerous peer-reviewed articles, book chapters, and has been invited to speak nationally and internationally on patient care and research. She has been recognized by her peers by appointment to the editorial board of Ophthalmology Glaucoma and has received research grants and several awards, including the American Glaucoma Society (AGS) Mentoring for Advancement of Physician Scientists Grant and the American Academy of Ophthalmology (AAO) Best Paper Award and Secretariat Award. She was awarded the American Society of Cataract and Refractive Surgery (ASCRS) International Service Grant for her involvement in global health initiatives.
-
-Credentials
-Board Certification
-American Board of Ophthalmology: 2019
-Education
-Fellowship: Wilmer Eye Institute, Glaucoma: 2018-2019
-Residency: Chief Resident–Harkness Eye Institute, Columbia University Medical Center: 2015-2018
-Medical School: Columbia University College of Physicians and Surgeons: 2009-2014
-Undergraduate: University of Southern California: 2005–2009
-
-Here's a direct link to the about page: [contact](contact.html).
-
-##Problem 2
-Create a flexdashboard using plotly for that includes at least three distinct plot types (e.g. scatterplots, line plots, bar plots, box plots, etc.). Use one of the following datasets, and load from the p8105.datasets package:
-
+Here's a link to [contact](contact.html) Aaki.
 
 

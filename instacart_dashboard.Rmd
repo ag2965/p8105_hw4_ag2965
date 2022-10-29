@@ -6,7 +6,7 @@ output:
     vertical_layout: fill
 ---
 
-Here's a direct link to Aaki's homework 4 repo: https://github.com/ag2965/p8105_hw4_ag2965
+Here's a direct link to Aaki's homework 4 repository: https://github.com/ag2965/p8105_hw4_ag2965
 
 ```{r setup, include=FALSE}
 library(tidyverse)

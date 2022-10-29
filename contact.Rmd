@@ -6,7 +6,12 @@ output:
     toc_float: true
     theme: cerulean
 ---
+Connect with me!
 
-Aakriti Garg Shukla, M.D.
-635 W. 165th St, Fifth Floor, Room 533, NY, NY 10032
 Email: ag2965@cumc.columbia.edu
+
+Mail: 
+Aakriti Garg Shukla, M.D.
+635 W. 165th St <br>
+Room 533 <br> 
+NY, NY 10032

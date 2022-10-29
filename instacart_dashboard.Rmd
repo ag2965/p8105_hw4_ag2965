@@ -28,8 +28,10 @@ instacart =
 
 instacart%>%
   janitor::clean_names()%>%
+  sample_n(1000)%>%
+  group_by(aisle)%>%
 plot_ly(
-    x = ~product_name, y = ~order_dow, type = "scatter", mode = "markers",
+    x = ~aisle, y = ~order_hour_of_day, type = "scatter", mode = "markers",
     color = ~order_dow, alpha = 0.5)
 ```
 

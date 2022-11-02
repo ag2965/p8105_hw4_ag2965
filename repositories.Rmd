@@ -1,0 +1,15 @@
+---
+title: "Repositories"
+output: html_document
+---
+Here's are links to Aaki's repositories:
+
+https://github.com/ag2965/viz_and_eda.git
+
+https://github.com/ag2965/data_wrangling_ii.git
+
+https://github.com/ag2965/p8105_hw2_ag2965.git
+
+https://github.com/ag2965/p8105_hw1_AG2965.git
+
+https://github.com/ag2965/case_study.git

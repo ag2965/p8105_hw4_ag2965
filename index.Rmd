@@ -13,9 +13,9 @@ knitr::opts_chunk$set(echo = TRUE)
 ```
 Welcome to Aakriti Shukla's website for p8105!
 
-Aakriti is an ophthalmologist at CUIMC and is taking the p8105 Data Science class. Here is a picture of Aakriti's pet, Sugar. 
+Aakriti is an ophthalmologist at CUIMC and is taking the p8105 Data Science class. Here is a picture of Aakriti's pet puppy, Sugar. 
 
-<img src="image/sugar.jpg">
+<img src="sugarimage/sugar.jpg">
 
 
 Here's a link to Aakriti's [academic and professional experience](index-hw4.html).

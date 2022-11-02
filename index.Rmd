@@ -17,4 +17,6 @@ Here's a link to Aakriti's [academic and professional experience](index-hw4.html
 
 Here's a link to [contact](contact.html) Aaki.
 
+Here's a link to Aakriti's [repositories](repositories.html).
+
 
